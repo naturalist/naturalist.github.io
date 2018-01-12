@@ -79,7 +79,7 @@
                         icon: {
                           url: '//maps.google.com/mapfiles/kml/shapes/bus.png',
                           scaledSize: new google.maps.Size(32, 32),
-                          labelOrigin: new google.maps.Point(16, -5)
+                          labelOrigin: new google.maps.Point(16, -7)
                         }
                     });
                 }
